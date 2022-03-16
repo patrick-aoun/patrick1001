@@ -27,6 +27,8 @@
             @yield('content')
         </main>
     </div>
+    <main>
+        Hello there php testing push on branches
+    </main>
 </body>
-
 </html>
